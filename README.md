@@ -104,10 +104,11 @@ npm run build
 
 ## Screenshots
 
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.25.42 PM.png>)
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.25.59 PM.png>)
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.26.12 PM.png>)
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.26.50 PM.png>)
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.27.07 PM.png>)
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.27.34 PM.png>)
-![alt text](<public/Images/Screenshot 2025-05-19 at 2.28.06 PM.png>)
+<img width="1028" alt="Screenshot 2025-05-19 at 2 25 42 PM" src="https://github.com/user-attachments/assets/2b5d02af-27b2-4654-946f-786955e0d2f5" />
+<img width="1019" alt="Screenshot 2025-05-19 at 2 25 59 PM" src="https://github.com/user-attachments/assets/2318d72d-ea1b-4d6e-a1bc-ddce50ac9e9f" />
+<img width="1028" alt="Screenshot 2025-05-19 at 2 26 12 PM" src="https://github.com/user-attachments/assets/c16da441-9394-4ad3-bf00-d8696aba15a2" />
+<img width="1021" alt="Screenshot 2025-05-19 at 2 26 50 PM" src="https://github.com/user-attachments/assets/9b2b24fa-2d3f-4b06-bbc4-b5d58c26046c" />
+<img width="1026" alt="Screenshot 2025-05-19 at 2 27 07 PM" src="https://github.com/user-attachments/assets/ef9f9724-c166-429b-9f5f-b3b8fc5af19a" />
+<img width="1028" alt="Screenshot 2025-05-19 at 2 27 34 PM" src="https://github.com/user-attachments/assets/24e771ce-ea56-459f-b16c-15b9069ec415" />
+<img width="1016" alt="Screenshot 2025-05-19 at 2 28 06 PM" src="https://github.com/user-attachments/assets/d59a25ae-5c01-49d7-acf1-c35f1aff3666" />
+
